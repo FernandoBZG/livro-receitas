@@ -1,4 +1,5 @@
-#Strognoff de Carne
+# Strognoff de Carne
+
 ### Igredientes
  - 400g de carne (filé mignon, chã de dentro ou alcatra)
  - Pimenta
